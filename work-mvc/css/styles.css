@@ -1,0 +1,17 @@
+a.btn-create {
+	color: #fff;
+}
+
+a.btn-create:hover {
+	color: #fff;
+}
+
+.task-status {
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+}
+
+small.error {
+	color: red !important;
+}
